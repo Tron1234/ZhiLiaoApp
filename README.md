@@ -9,3 +9,10 @@
 未实名认证的用户可在文章下方进行评论。
 	  用户可以自行更改该应用的登录密码，但修改之前必须通过短信验证才能更改成功，管理员用户可在设置中登录用户管理系统，
 对该应用已有用户信息进行查看和编辑。
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E6%B3%A8%E5%86%8C%E9%A1%B5%E9%9D%A2.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E9%A6%96%E9%A1%B5.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E7%BC%96%E5%86%99%E9%80%89%E6%8B%A9%E9%A1%B5%E9%9D%A2.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0%E9%A1%B5%E9%9D%A2.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E7%BC%96%E5%86%99%E8%A7%86%E9%A2%91%E9%A1%B5%E9%9D%A2.png)
+![](https://github.com/Tron1234/ZhiLiaoApp/blob/master/screenshot/%E6%88%91%E7%9A%84%E9%A1%B5%E9%9D%A2.png)
